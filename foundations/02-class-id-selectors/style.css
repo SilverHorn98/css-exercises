@@ -1,4 +1,4 @@
-body > *:nth-child(odd){
+.odd{
     background-color: lightpink;
     font-family: 'Verdana', 'DejaVuSans', sans-serif;
 }
