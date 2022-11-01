@@ -26,6 +26,8 @@ input {
   margin-bottom: 16px;
 }
 
+/*Added code here */
+
 body{
   display: flex;
   flex-direction: column; 
